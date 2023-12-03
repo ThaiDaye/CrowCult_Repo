@@ -1,1 +1,2 @@
-Content/**[[:space:]]filter=lfs[[:space:]]diff=lfs[[:space:]]merge=lfs[[:space:]]-text filter=lfs diff=lfs merge=lfs -text
+CrowQuake/** filter=lfs diff=lfs merge=lfs -text
+
